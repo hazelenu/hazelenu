@@ -39,7 +39,7 @@
 
 ---
 
-## Interested in my 3D artwork?
+## 👀 Interested in my 3D artwork?
 
 Explore my world of interactive environments, games, and animation on:  
 🎨 [ArtStation – hazelyr.artstation.com](https://hazelyr.artstation.com/)
