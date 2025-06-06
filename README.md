@@ -1,4 +1,4 @@
-# 👋 Hi! I'm Yiran Li – an SDE who makes films, takes photos for vogue magazine, and hosts a podcast.
+# 👋 Hi! I'm Yiran Li – an SDE who paints, makes films, and takes photos for vogue magazine.
 
 🎓 Master's in Entertainment Technology @ Carnegie Mellon University (2024–2026)  
 🎨 BASc in Product Design & Minor in CS @ The University of Hong Kong (2019–2024)  
